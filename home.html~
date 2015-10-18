@@ -1,0 +1,23 @@
+
+<html>
+	<head>
+		<title>Home Page</title>
+		<link rel="stylesheet" type="text/css" href="home.css">
+	</head>
+	<body
+		 background="/tmp/guest-c0DdSe/Desktop/MEET-yl2/Small Squares On Blue Background.jpg">
+
+		<h1 align=center> WELCOME! </h1>
+		<p class="big" >People affected the world:</p>
+		<p class="huge"><a href="https://www.google.co.il/search?client=ubuntu&channel=fs&q=obama&ie=utf-8&oe=utf-8&gfe_rd=cr&ei=bbsjVumvN-mH8QfJnq_YDA">obama </a> <br>
+		<a href="https://www.google.co.il/search?client=ubuntu&channel=fs&q=linkolj&ie=utf-8&oe=utf-8&gfe_rd=cr&ei=nbsjVr7LF-mH8QfJnq_YDA#channel=fs&q=lincoln">lincoln</a> <br>
+		<a href="https://www.google.co.il/search?client=ubuntu&channel=fs&q=ainshtine&ie=utf-8&oe=utf-8&gfe_rd=cr&ei=dLwjVuitFeWH8QfnuYTYCQ#channel=fs&q=einstein">einstein</a></p>
+		<form>
+			
+		</form>
+	</body>
+
+</html>
+
+
+

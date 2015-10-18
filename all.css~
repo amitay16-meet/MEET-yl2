@@ -1,0 +1,8 @@
+body {
+    background-image: url("amitay.jpg");
+	
+background-size: 100%;
+}
+.huge{font-size:500%}
+.big{font-size:250%}
+.small-big{font-size:175%}
