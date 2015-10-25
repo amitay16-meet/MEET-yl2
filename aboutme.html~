@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>ME</title>
+		<title>ABOUT ME</title>
 		<link rel="stylesheet" type="text/css" href="all.css">
 	</head>
 	<body>
@@ -14,7 +14,7 @@
 			<input type="text">
 			<input type="submit" value="log in"> 
 <b><br><a class="small-big" href="home.html">back to home page</a> <br>
-		<b><a class="small-big" href="aboutme.html">CONTCAT ME</a></p>	
+		<b><a class="small-big" href="CONTCATME.html">CONTCAT ME</a></p>	
 		</form>
 	</body>
 

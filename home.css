@@ -1,7 +1,6 @@
-
-home.css
 body {
-    background-image: url("http://herzimbabwe.co.zw/wp-content/uploads/2015/08/house-home.jpg");
+    background-image: url('wrightbrothers.jpg');
+     background-size: 100%;
 	width: 100%
 }
 .huge{font-size:500%}
